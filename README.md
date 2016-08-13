@@ -15,7 +15,6 @@ Here's the script for GoPro Hero 2014 Entry Level Action Cameras that allows you
 ## DISCLAIMER
 Even though this script is pretty non-volatile,  this will almost certainly void your GoPro warranty. There is also a small chance that you could brick your GoPro. I won't be held responsible if anything screws up.
 
-## 
 
 **P.S.** Check out my YouTube Channel [TechWizTime] (https://www.youtube.com/TechWizTime) where I explain what all the commands. I'll also show you other awesome tech and tricks you can perform at home. https://www.youtube.com/TechWizTime
 
